@@ -1,2 +1,2 @@
-# excavator_pm
-Predictive maintenance pipeline for excavators using synthetic sensor data, Jupyter notebook, and Random Forest model.
+Excavator Predictive Maintenance
+This project uses predictive modeling to forecast when construction equipment will need maintenance after a certain amount of use, helping avoid costly delays and improving efficiency. It collects or simulates sensor data from excavators, organizes it into a clean dataset, trains a Random Forest model to learn patterns that lead to equipment failures, and predicts when maintenance is required. Results are visualized with plots to make machine conditions easy to interpret.
